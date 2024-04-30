@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211062421571",
+    "project_id": "fir-project-d5786",
+    "storage_bucket": "fir-project-d5786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211062421571:android:6dd3113d572f590ac93cf6",
+        "android_client_info": {
+          "package_name": "sof.login.iniciodesesion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpxOpi0JCf4veoVEq1nKtr_xB58iDEzgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
